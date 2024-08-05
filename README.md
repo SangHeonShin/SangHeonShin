@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🌱 I’m currently absorbed in Creating my own sercive!
 - ⚔ This is my Tech Stack ⚔
-- <div>
+<div>
   <span><img src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=FFFFFF" /></span>
 <span><img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=FFFFFF" /></span>
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=FFFFFF" /></span>
