@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently absorbed in Creating my own sercive!
+- 🌱 I’m currently absorbed in Creating my Own Sercive!
 - ⚔ Tech Stack ⚔
 <div>
   <span><img src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=FFFFFF" /></span>
